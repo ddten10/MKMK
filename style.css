@@ -1,5 +1,5 @@
-<style>h1{color:rgb(218, 45, 45);}
-.highlight {border:solid; border-color:rgb(76, 43, 226);}
-.highlight2{border:solid;border-color:rgb(230, 130, 73);}
-#profile{border:solid;border-color:rgb(51, 196, 135);} 
-</style>
+<style>
+.highlight {border:solid; border-color:blueviolet;}
+.highlight2{border:solid;border-color:aqua;}
+#profile{border:solid;border-color:blue;} 
+h1{color:brown;}</style>
